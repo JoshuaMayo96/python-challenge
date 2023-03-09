@@ -8,7 +8,7 @@ Before starting the assignment, be sure to complete the following steps:
 
   - Create a new repository for this project called python-challenge. Do not add this homework assignment to an existing repository.
 
-  -Clone the new repository to your computer.
+  - Clone the new repository to your computer.
 
   - Inside your local Git repository, create a folder for each Python assignment and name them PyBank and PyPoll.
 
